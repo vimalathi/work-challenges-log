@@ -1,4 +1,4 @@
-# work-challenges-log
+# work-journal
 
 Repository Structure:
 
